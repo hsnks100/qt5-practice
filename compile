@@ -1,0 +1,2 @@
+ gcc -Wall -g -o testGlade main.cpp `pkg-config --cflags --libs gtk+-3.0` && ./testGlade
+
